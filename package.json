@@ -1,0 +1,23 @@
+{
+  "name": "config-template",
+  "version": "1.0.0",
+  "description": "A collection of default config files that I use with all my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meepedy/config-template.git"
+  },
+  "author": "David Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meepedy/config-template/issues"
+  },
+  "homepage": "https://github.com/Meepedy/config-template#readme",
+  "dependencies": {
+    "eslint": "^5.1.0"
+  }
+}
